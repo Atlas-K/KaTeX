@@ -71,7 +71,7 @@ export type FunctionPropSpec = {
     // (default false)
     allowedInText?: boolean,
 
-    // Whether or not the function is allowed inside text mode
+    // Whether or not the function is allowed inside math mode
     // (default true)
     allowedInMath?: boolean,
 
